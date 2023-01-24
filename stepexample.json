@@ -1,0 +1,4 @@
+{
+  "Error": "Exception",
+  "Cause": "{\"errorMessage\":\"('deu erro', {'Comment': 'Insert your JSON here', 'userID': 1, 'date': '2022-01-01'})\",\"errorType\":\"Exception\",\"requestId\":\"fddeeaab-e862-41b0-8747-bbdbfd969b53\",\"stackTrace\":[\"  File \\\"/var/task/lambda_function.py\\\", line 5, in lambda_handler\\n    raise Exception(\\\"deu erro\\\", event)\\n\"]}"
+}
